@@ -23,6 +23,9 @@ Utilizes `conio.h` for capturing real-time keyboard input (W, A, S, D for moveme
 - Windows operating system (due to Windows-specific libraries like `windows.h` and `conio.h`)
 
 ## Project Structure
--**snake.cpp**
--Contains the complete source code for the Snake Game.
--**README.md**
+
+- **snake.cpp:**  
+  Contains the complete source code for the Snake Game.
+
+- **README.md:**  
+  Contains this project description, features, instructions, and more.
