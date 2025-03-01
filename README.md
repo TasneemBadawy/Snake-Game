@@ -21,3 +21,8 @@ Utilizes `conio.h` for capturing real-time keyboard input (W, A, S, D for moveme
 
 - A C++ compiller (e.g.,Visual Studio , Code Blocks)
 - Windows operating system (due to Windows-specific libraries like `windows.h` and `conio.h`)
+
+## Project Structure
+-**snake.cpp**
+-Contains the complete source code for the Snake Game.
+-**README.md**
